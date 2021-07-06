@@ -1,0 +1,6 @@
+baseURI= https://api.stripe.com
+basePath= /v1
+customerAPIEndPoint= /customers
+validSecretKey= sk_test_51J65ZESA9EQKPRtrWDy5QgrLzTAw63lc1IS1jYGRKp8f20zZQCuoqg3C3c9ly78IFdHNIRdU4EOaSC0PCdEHWM6l00dDdPkCQo
+invalidSecretKey= sk_test_51J65ZESA9EQKPRtrWDy5QgrLzTAw63lc1IS1jYGRKp8f20zZQCuoqg3C3c9ly78IFdHNIRdU4EOaSC0PCdEHWM6l00dDdPkCQo123 
+testDataSheetName=validateCreateCustomerAPI
